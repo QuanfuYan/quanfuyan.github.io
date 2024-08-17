@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Quanfu Yan"
   pronouns         : # example: "she/her"  
   bio              : "Some birds are not meant to be caged, their feathers are just twoo bright."
