@@ -1,5 +1,5 @@
 ---
-title: "The characterization of  PSL(2, p), p\equiv \pm5 (mod 24)"
+title: "The characterization of  PSL(2, p), p\equiv +-5 (mod 24)"
 collection: publications
 permalink: /publication/2024-01-30-paper-title-number-5
 date: 2024-01-30
