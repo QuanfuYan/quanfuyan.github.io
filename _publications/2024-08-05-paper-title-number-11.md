@@ -1,7 +1,7 @@
 ---
 title: "Some results on variation on the norm of finite groups"
 collection: publications
-permalink: /publication/2024-08-05-paper-title-number-10
+permalink: /publication/2024-08-05-paper-title-number-11
 date: 2024-08-05
 venue: ''
 paperurl: ''
