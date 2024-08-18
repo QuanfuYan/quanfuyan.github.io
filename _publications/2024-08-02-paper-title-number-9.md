@@ -1,7 +1,7 @@
 ---
 title: "A Note on the Codegree of Finite Groups"
 collection: publications
-permalink: /publication/2024-08-02-paper-title-number-8
+permalink: /publication/2024-08-02-paper-title-number-9
 date: 2024-08-02
 venue: 'Algebr Represent Theor'
 citation: 'M. L. Lewis and Q. Yan, &quot;A Note on the Codegree of Finite Groups,&quot; Algebr Represent Theor (2024)'
