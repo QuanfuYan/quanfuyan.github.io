@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PostDoc in China, Peking University, 2026 (expected)
 * Ph.D in USA, Kent State University, 2024
 * M.S. in China, China Agricultural University, 2019
 * B.S. in China, China Agricultural University, 2017
