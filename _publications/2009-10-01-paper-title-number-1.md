@@ -1,9 +1,9 @@
 ---
 title: "Finite groups with SS-supplement"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2017-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2010-10-01
+date: 2017
 venue: 'Monatsh Math.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
