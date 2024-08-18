@@ -2,10 +2,8 @@
 title: "Finite groups with SS-supplement"
 collection: publications
 permalink: /publication/2017-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'Monatsh Math.'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Quanfu, Yan. (2017). &quot;Finite groups with SS-supplement.&quot; <i>Journal 1</i>. 1(1).'
 ---
